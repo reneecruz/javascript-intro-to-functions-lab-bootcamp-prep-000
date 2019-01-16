@@ -21,7 +21,7 @@ function logWhisper(string)
 function sayHiToGrandma(string)
   {
     
-      === "I can\'t hear you!"
+      ("hello") === "I can\'t hear you!"
     
       === "YES, INDEED!"
       
