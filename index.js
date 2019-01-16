@@ -19,5 +19,14 @@ function logWhisper(string)
 }
 
 function sayHiToGrandma(string)
-  {}
+  {
+    
+      === "I can\'t hear you!"
+    
+      === "YES, INDEED!"
+      
+      === "I love you, too."
+    
+   
+  }
 
