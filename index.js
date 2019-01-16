@@ -25,7 +25,7 @@ function sayHiToGrandma(string)
     
       string.uppercase === "YES, INDEED!"
       
-      === "I love you, too."
+     /* === "I love you, too."*/
     
    
   }
