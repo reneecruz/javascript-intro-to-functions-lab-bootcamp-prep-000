@@ -22,12 +22,20 @@ function sayHiToGrandma(string)
   {
     
       var lowercase = string.toLowerCase
-      string.toLowerCase() === lowercase 
+      var uppercase = string.toUpperCase
+      
+      if 
+      string === lowercase
       return "I can\'t hear you!"
-      string.toUpperCase() === uppercase
+      
+      else if
+      string === uppercase
       return "YES, INDEED!"
       
-     /* === "I love you, too."*/
+      else
+      
+      string === "I love you, Grandma"
+      return "I love you, too.""
     
    
   }
